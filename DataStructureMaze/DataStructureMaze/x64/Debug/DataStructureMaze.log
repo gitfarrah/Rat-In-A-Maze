@@ -1,0 +1,20 @@
+﻿  MazeGUI.cpp
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(66,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(66,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(67,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(73,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(73,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(74,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(140,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(140,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(181,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(181,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(196,92): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(196,87): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(243,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(243,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(244,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(250,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(250,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\farah\source\repos\DataStructureMaze\DataStructureMaze\MazeGUI.cpp(251,51): warning C4305: 'argument': truncation from 'double' to 'float'
+  DataStructureMaze.vcxproj -> C:\Users\farah\source\repos\DataStructureMaze\x64\Debug\DataStructureMaze.exe
